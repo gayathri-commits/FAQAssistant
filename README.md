@@ -37,7 +37,7 @@ streamlit run faq_assistant.py
 
 ## 📝 Preview
 
-![Preview](image.png)
+![Preview](faqassistant.png)
 
 ## 📌 Notes
 
